@@ -1,36 +1,20 @@
 ## 特点
-> 基于vuejs+axios+vue-router+vant的单页小型商城
-> 开箱即用移动端商城。
-> 开箱即用，src/data/目录下提供后台接口格式，前端可做二次开发以实现自有业务
+> 1. 基于vuejs+axios+vue-router+vant的单页小型商城
+> 2. 开箱即用移动端商城。
+> 3. 开箱即用，src/data/目录下提供后台接口格式，前端可做二次开发以实现自有业务
 
 ## 手机预览  
 
+
 ![](./docs/static/home.jpg)
-
-![](./docs/static/cart.jpg)
-
-![](./docs/static/userCenter.jpg)
 
 ![](./docs/static/productDetail.jpg)
 
-![](./docs/static/confirmorder.jpg)
-
-![](./docs/static/wechatpay.jpg)
-
-![](./docs/static/waitpay.jpg)
-
 ![](./docs/static/orderdetail.jpg)
-
-![](./docs/static/orderlist.jpg)
-
-![](./docs/static/logistics.jpg)
-
-![](./docs/static/addresslist.jpg)
 
 ![](./docs/static/login.jpg)
 
-![](./docs/static/register.jpg)
-
+![](./docs/static/orderlist.jpg)
 
 ## 技术栈
 
