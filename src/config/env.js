@@ -8,7 +8,7 @@
 
 let baseUrl = ''; 
 let routerMode = 'hash';
-let dataSources='loca';//local=本地，其他值代表非本地
+let dataSources='local';//local=本地，其他值代表非本地
 let localIp='http://localhost:5999';
 
 if (process.env.NODE_ENV == 'development') {

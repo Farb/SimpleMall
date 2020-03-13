@@ -1,21 +1,29 @@
 {
-	"type": "1",
-	"imagegap": "0",
-	"imagelist": [{
-			"link": "/#/search?categoryid=12",
-			"src": "http://hysc.shyuying.cn/Public/upload/2018/09/05/5b8f7a5180541.jpg"
-		},
-		{
-			"link": "/#/product/4",
-			"src": "http://hysc.shyuying.cn/Public/upload/2018/09/06/5b90775bb202d.jpg"
-		},
-		{
-			"link": "/#/product/4",
-			"src": "http://hysc.shyuying.cn/Public/upload/2018/09/05/5b8f7a71d0918.jpg"
-		},
-		{
-			"link": "/#/product/4",
-			"src": "https://s2.ax1x.com/2019/12/19/QqRRVs.png"
-		}
-	]
+    "CodeMsg": {
+        "Code": "1",
+        "Title": "成功",
+        "Description": "成功"
+    },
+    "Content": {
+        "type": 1,
+        "imagegap": 0,
+        "imagelist": [
+            {
+                "src": "https://s2.ax1x.com/2020/02/25/3YsMwT.jpg",
+                "id": 0
+            },
+            {
+                "src": "https://s2.ax1x.com/2020/02/24/3J9cd0.jpg",
+                "id": 0
+            },
+            {
+                "src": "https://s2.ax1x.com/2020/02/24/3J96Zq.jpg",
+                "id": 0
+            },
+            {
+                "src": "https://s2.ax1x.com/2020/01/04/ldLRte.jpg",
+                "id": 0
+            }
+        ]
+    }
 }

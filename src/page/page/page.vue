@@ -79,7 +79,7 @@
 				loading: false,
 				finished: false,
 				pageIndex: 1, //请求第几页
-				pageSize: 6, //每页请求的数量
+				pageSize: 12, //每页请求的数量
 				total: 0, //总共的数据条数
 			}
 		},
@@ -95,15 +95,8 @@
 					this.imageTexts = res.Content;
 				}
 			});
-			getProducts({
-					page: this.pageIndex,
-					pageSize: this.pageSize
-				}).then(res => {
-				if (res.CodeMsg.Code == 1) {
-					this.products.list = res.Content.productlist;
-					this.total=res.Content.total;
-				}
-			});
+			
+			this.getData();
 
 		},
 		computed:{

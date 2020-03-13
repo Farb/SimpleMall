@@ -1,37 +1,120 @@
 {
-	"type": "2",
-	"source": "1",
-	"showsort": "0",
-	"shownumber": "6",
-	"tag": "0",
-	"showtype": "simple",
-	"buttonvalue": "购买",
-	"productids": "4,1,3",
-	"productcategoryid": "",
-	"producttagid": "",
-	"productlist": [{
-			"id": 4,
-			"title": "Naturie imju 薏仁美白保湿防晒化妆水 500毫升 我是大美人强推 ",
-			"price": "55.00",
-			"imageURL": "https://haitao.nos.netease.com/50c2fafd909f489e9ebd3418cd90a1711533208260850jkcgm1fq10072.jpg"
-		},
-		{
-			"id": 1,
-			"title": "Ryo 吕 棕吕（原黄吕）防脱固发滋养  洗发水*2+护发素*1 500毫升/瓶",
-			"price": "105.00",
-			"imageURL": "https://haitao.nosdn2.127.net/bc977ba46ed74158b6b3386eaf27f7f81530241584513jizebvc810863.jpg"
-		},
-		{
-			"id": 10,
-			"title": "Dior 迪奥 粉漾魅惑变色润唇膏 04#橘色 3.5克",
-			"price": "179.00",
-			"imageURL": "https://haitao.nosdn2.127.net/ix7gkb6581_800_800.jpg"
-		},
-		{
-			"id": 10,
-			"title": "ÍpsΛ 茵芙莎 流金岁月美肤水 200毫升",
-			"price": "328.00",
-			"imageURL": "https://haitao.nosdn2.127.net/0938e26c883f451b9387b9daf6b5ed9d1537025125829jm3l2par10687.jpg"
-		}
-	]
+	"CodeMsg": {
+		"Code": "1",
+		"Title": "成功",
+		"Description": "成功"
+	},
+	"Content": {
+		"total": 12,
+		"productlist": [{
+				"title": "沙棘补水冰膜5片装",
+				"price": "9.90",
+				"originPrice": "99.00",
+				"salesVolume": "6000",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8MPIDH.jpg",
+				"quantity": 0,
+				"id": 64
+			},
+			{
+				"title": "银离子抑菌喷雾100ml",
+				"price": "9.90",
+				"originPrice": "99.00",
+				"salesVolume": "6000",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8MiSbj.jpg",
+				"quantity": 0,
+				"id": 63
+			},
+			{
+				"title": "华芸免水洗手泡泡80ml",
+				"price": "9.90",
+				"originPrice": "68.00",
+				"salesVolume": "6000",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8MiCan.jpg",
+				"quantity": 0,
+				"id": 62
+			},
+			{
+				"title": "樱花香氛沐浴露 230ml",
+				"price": "9.90",
+				"originPrice": "99.00",
+				"salesVolume": "6005",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8MiExU.jpg",
+				"quantity": 0,
+				"id": 61
+			},
+			{
+				"title": "光感护色发膜 230ml",
+				"price": "9.90",
+				"originPrice": "99.00",
+				"salesVolume": "6011",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8MimqJ.jpg",
+				"quantity": 0,
+				"id": 60
+			},
+			{
+				"title": "青春焕颜液 爽肤水180ml",
+				"price": "9.90",
+				"originPrice": "99.00",
+				"salesVolume": "6002",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8MiJMD.jpg",
+				"quantity": 0,
+				"id": 59
+			},
+
+			{
+				"title": "沙棘净透氨基酸洁面膏100g",
+				"price": "9.90",
+				"originPrice": "68.00",
+				"salesVolume": "6005",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8Mi4J0.jpg",
+				"quantity": 0,
+				"id": 58
+			},
+			{
+				"title": "蜡菊紧致弹润面膜 5片",
+				"price": "9.90",
+				"originPrice": "99.00",
+				"salesVolume": "6002",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8MiqeJ.jpg",
+				"quantity": 0,
+				"id": 57
+			},
+			{
+				"title": "薰衣草盈润滋养面膜 5片",
+				"price": "9.90",
+				"originPrice": "99.00",
+				"salesVolume": "6013",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8MijF1.jpg",
+				"quantity": 0,
+				"id": 56
+			},
+			{
+				"title": "洋甘菊舒缓修护面膜5片",
+				"price": "9.90",
+				"originPrice": "99.00",
+				"salesVolume": "6001",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8MFkTA.jpg",
+				"quantity": 0,
+				"id": 55
+			},
+			{
+				"title": "百合焕亮净透面膜 5片",
+				"price": "9.90",
+				"originPrice": "99.00",
+				"salesVolume": "6785",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8MFFwd.jpg",
+				"quantity": 0,
+				"id": 54
+			},
+			{
+				"title": "玫瑰焕颜水润面膜 5片",
+				"price": "9.90",
+				"originPrice": "99.00",
+				"salesVolume": "6052",
+				"imageURL": "https://s1.ax1x.com/2020/03/13/8MixW6.jpg",
+				"quantity": 0,
+				"id": 53
+			}
+		]
+	}
 }

@@ -1,33 +1,31 @@
 {
-		"type": "1",
-		"showtype": "1",
-		"shownumber": "4",
-		"color": "",
-		"backgroundcolor": "",
+	"CodeMsg": {
+		"Code": "1",
+		"Title": "成功",
+		"Description": "成功"
+	},
+	"Content": {
+		"type": 1,
+		"showtype": 1,
+		"shownumber": 4,
+		"backgroundcolor": null,
+		"color": null,
 		"imagelist": [{
-				"link": "",
-				"src": "https://haitao.nos.netease.com/gefNTDIqyQsSAEtSpy222T1808221621_192_220.jpg",
-				"title": ""
+				"src": "https://s2.ax1x.com/2020/01/11/l5Q1tP.jpg",
+				"categoryId": 20
 			},
 			{
-				"link": "",
-				"src": "https://haitao.nosdn2.127.net/NVSMWxQKvHyakuP6WruN3T1809031519_192_220.jpg",
-				"title": ""
+				"src": "https://s2.ax1x.com/2020/01/12/logfOS.jpg",
+				"categoryId": 19
 			},
 			{
-				"link": "",
-				"src": "https://haitao.nosdn1.127.net/2dWeQg9FCfC8whIZWhac4T1809031520_192_220.jpg",
-				"title": ""
+				"src": "https://s2.ax1x.com/2020/01/12/log4eg.jpg",
+				"categoryId": 17
 			},
 			{
-				"link": "",
-				"src": "https://haitao.nosdn1.127.net/kZZ6h45lVQhRZLOJPHJd1T1808171739_192_220.jpg",
-				"title": ""
-			},
-			{
-				"link": "",
-				"src": "https://haitao.nosdn1.127.net/VNeftDVe3h9rgEq7MtfDT1809061111_192_220.jpg",
-				"title": ""
+				"src": "https://s2.ax1x.com/2020/01/12/log5wQ.jpg",
+				"categoryId": 18
 			}
 		]
+	}
 }

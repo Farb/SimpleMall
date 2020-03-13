@@ -16,9 +16,9 @@ import GetCoupon from './user/GetCoupon.json'
 
 export default {
     '/Page/GetPage':GetPage,
-	'/Page/imgageTexts':imgageTexts,
-	'/Page/products':products,
-	'/Page/banners':banners,
+	'/api/index/getimagetexts':imgageTexts,
+	'/api/product/getproductlist':products,
+	'/api/index/getbanners':banners,
 
     '/User/GetUserIndex':GetUserIndex,
     '/User/GetFavorite':GetFavorite,
