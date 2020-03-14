@@ -19,6 +19,8 @@
 
 ![](./docs/static/orderlist.jpg)
 
+![](./docs/static/wechatpay.jpg)
+
 ## 技术栈
 
 - [vue cli 3](https://cli.vuejs.org/zh/guide/installation.html)
