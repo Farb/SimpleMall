@@ -1,14 +1,26 @@
-[
-    {
-    "id": "1",
-    "name": "张三",
-    "tel": "13000000000",
-    "address": "浙江省杭州市西湖区文三路 138 号东方通信大厦 7 楼 501 室"
-    },
-    {
-        "id": "2",
-        "name": "李四",
-        "tel": "1310000000",
-        "address": "浙江省杭州市拱墅区莫干山路 50 号"
-    }
-]
+{
+	"CodeMsg": {
+		"Code": "1",
+		"Title": "成功",
+		"Description": "成功"
+	},
+	"Content": [{
+		"name": "Farb1",
+		"tel": "13606541235",
+		"address": "浙江省杭州市西湖区蒋村花园",
+		"isDefault": true,
+		"id": 36
+	}, {
+		"name": "farb2",
+		"tel": "13606540011",
+		"address": "陕西省富平县齐村镇安乐村",
+		"isDefault": false,
+		"id": 40
+	}, {
+		"name": "farb3",
+		"tel": "13606540022",
+		"address": "广东省广州市从化区太平镇",
+		"isDefault": false,
+		"id": 40
+	}]
+}

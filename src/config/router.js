@@ -4,6 +4,8 @@ import VueCookies from 'vue-cookies';
 
 import myconstants from "./constants.js";
 import {hasToken,isValidToken} from '../lib/helper.js';
+import {dataSources} from './env';
+
 Vue.use(VueCookies);
 Vue.use(Router);
 
@@ -297,8 +299,11 @@ router.beforeEach((to, from, next) => {
 		document.title = title;
 	}
 	const type = to.meta && to.meta.type;
+	if(dataSources == 'local'){
+		next();
+		return;
+	}
 	//登录校验,如果已经登录,如果不是从切换账号入口再次进入登录页面直接跳转到个人中心
-
 	if (type === 'login') {	
 		//re-login if both of tokens doesn't exist.
 		if (hasToken()) {

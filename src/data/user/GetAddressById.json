@@ -1,9 +1,18 @@
-
 {
-    "id": "2",
-    "name": "李四",
-    "tel": "13108826530",
-    "areaCode": "712899",
-    "addressDetail": "浙江省杭州市拱墅区莫干山路 50 号",
-    "isDefault": false
+	"CodeMsg": {
+		"Code": "1",
+		"Title": "成功",
+		"Description": "成功"
+	},
+	"Content": {
+		"name": "Farb",
+		"tel": "13606541235",
+		"areaCode": "110101",
+		"province": "北京市",
+		"city": "北京市",
+		"county": "东城区",
+		"addressDetail": "天安门",
+		"isDefault": true,
+		"id": 36
+	}
 }

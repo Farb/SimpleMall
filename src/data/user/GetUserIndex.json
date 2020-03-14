@@ -1,7 +1,13 @@
 {
-    "UserName":"HuaYun",
-    "Avatar":"http://haitao.nos.netease.com/ZnB0PM5xDzXZ2FeVlmT170102401021_150_150.png",
-    "UnPayTotal":1,
-    "UnRecieveTotal":2,
-    "AfterSaleTotal":3
+	"CodeMsg": {
+		"Code": "1",
+		"Title": "成功",
+		"Description": "成功"
+	},
+	"Content": {
+		"UserName": "admin",
+		"Avatar": "",
+		"UnPayCount": 1,
+		"UnReceiveCount": 0
+	}
 }

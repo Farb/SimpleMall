@@ -1,17 +1,13 @@
-
-import success from './common/success.json'
-
 import banners from './page/banners.json'
 import imgageTexts from './page/imgageTexts.json'
 import products from './page/products.json'
 import product from './page/productDetail.json';
 import GetUserIndex from './user/GetUserIndex.json'
-import GetFavorite from './user/GetFavorite.json'
 
 import GetAddressList from './user/GetAddressList.json'
 import GetAddressById from './user/GetAddressById.json'
 
-import GetCoupon from './user/GetCoupon.json'
+import orderList from './user/orderList.json'
 
 export default {
 	'/api/index/getimagetexts':imgageTexts,
@@ -19,16 +15,9 @@ export default {
 	'/api/index/getbanners':banners,
 	'/api/product/getproduct':product,
 	
-    '/User/GetUserIndex':GetUserIndex,
-    '/User/GetFavorite':GetFavorite,
-    '/User/DelFavorite':success,
-    
-    '/User/GetAddressList':GetAddressList,
-    '/User/GetAddressById':GetAddressById,
-
-    '/User/SaveAddress':success,
-    '/User/DelAddress':success,
-    
-    '/User/GetCoupon':GetCoupon,
-    '/User/ExchangeCoupon':success,
+    '/api/user/getuserindex':GetUserIndex,
+    '/api/user/getuseraddresslist':GetAddressList,
+    '/api/user/getuseraddress':GetAddressById,
+	
+	'/api/order/getorderlist':orderList
 }
