@@ -17,7 +17,7 @@
 
 ![](./docs/static/login.jpg)
 
-![](./docs/static/orderlist.jpg)
+![](./docs/static/orderList.jpg)
 
 ![](./docs/static/wechatpay.jpg)
 
