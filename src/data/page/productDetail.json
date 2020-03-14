@@ -1,0 +1,18 @@
+{
+	"CodeMsg": {
+		"Code": "1",
+		"Title": "成功",
+		"Description": "成功"
+	},
+	"Content": {
+		"title": "百合焕亮净透面膜 5片",
+		"subtitle": "<p> 提亮肤色 祛黄祛暗沉</p>",
+		"price": "9.90",
+		"originPrice": "99.00",
+		"thumbs": ["https://s1.ax1x.com/2020/03/13/8MixW6.jpg",
+			"https://s2.ax1x.com/2020/01/04/ldOE9J.jpg"
+		],
+		"infos": ["https://s1.ax1x.com/2020/03/14/8MzD1g.jpg"],
+		"id": 54
+	}
+}

@@ -1,11 +1,10 @@
 
 import success from './common/success.json'
 
-import GetPage from './page/GetPage.json'
 import banners from './page/banners.json'
 import imgageTexts from './page/imgageTexts.json'
 import products from './page/products.json'
-
+import product from './page/productDetail.json';
 import GetUserIndex from './user/GetUserIndex.json'
 import GetFavorite from './user/GetFavorite.json'
 
@@ -15,11 +14,11 @@ import GetAddressById from './user/GetAddressById.json'
 import GetCoupon from './user/GetCoupon.json'
 
 export default {
-    '/Page/GetPage':GetPage,
 	'/api/index/getimagetexts':imgageTexts,
 	'/api/product/getproductlist':products,
 	'/api/index/getbanners':banners,
-
+	'/api/product/getproduct':product,
+	
     '/User/GetUserIndex':GetUserIndex,
     '/User/GetFavorite':GetFavorite,
     '/User/DelFavorite':success,
