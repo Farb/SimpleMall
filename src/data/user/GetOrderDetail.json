@@ -1,0 +1,33 @@
+{
+	"CodeMsg": {
+		"Code": "1",
+		"Title": "成功",
+		"Description": "成功"
+	},
+	"Content": {
+		"orderNo": "202002272055382997",
+		"makeOrderTime": "2020/2/27 20:55:38",
+		"autoCloseLeftTime": 0,
+		"orderStateDesc": "已支付",
+		"orderState": 30,
+		"shipState": 30,
+		"productsAmount": "0.01",
+		"expressFee": "0.00",
+		"orderAmount": "0.01",
+		"name": "Farb",
+		"tel": "13606541235",
+		"address": "北京市北京市东城区天安门",
+		"products": [{
+			"title": "洋甘菊舒缓修护面膜5片",
+			"price": "9.90",
+			"originPrice": null,
+			"salesVolume": null,
+			"imageURL": "https://s1.ax1x.com/2020/03/13/8MFkTA.th.jpg",
+			"quantity": 1,
+			"id": 55
+		}],
+		"lastQueryArrival": "【湛江市】已签收，签收人是九八物流。轻骑只为佳人笑，给个五星好不好。【请在评价快递员处帮忙点亮五颗小星星】百世快递祝您在2019年百“世”顺心、万事如意，感谢使用百世快递，期待再次为您服务",
+		"lastQueryTime": "2020-01-10 20:22:53",
+		"id": 3
+	}
+}

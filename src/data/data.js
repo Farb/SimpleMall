@@ -8,6 +8,8 @@ import GetAddressList from './user/GetAddressList.json'
 import GetAddressById from './user/GetAddressById.json'
 
 import orderList from './user/orderList.json'
+import orderDetail from './user/GetOrderDetail.json'
+import logisticsInfo from './user/logisticsInfo.json'
 
 export default {
 	'/api/index/getimagetexts':imgageTexts,
@@ -19,5 +21,7 @@ export default {
     '/api/user/getuseraddresslist':GetAddressList,
     '/api/user/getuseraddress':GetAddressById,
 	
-	'/api/order/getorderlist':orderList
+	'/api/order/getorderlist':orderList,
+	'/api/order/getorder':orderDetail,
+	'/api/order/getorderexpressinfo':logisticsInfo
 }
