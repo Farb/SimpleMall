@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/license-MIT-green)
 ## 特点
 > 1. 基于vuejs+axios+vue-router+vant的单页小型商城
 > 2. 开箱即用移动端商城。
